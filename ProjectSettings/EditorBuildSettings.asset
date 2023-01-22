@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Glorbo Beginning.unity
+    guid: 24f481640607165489161e5490b106fe
+  - enabled: 1
+    path: Assets/Scenes/Glorbo's Adventure.unity
+    guid: 61ee7d6f2e03bbc438ec18851f5e610c
+  - enabled: 1
+    path: Assets/Scenes/WinScene.unity
+    guid: fa69e6f4256fda248b4ba2632915bc77
+  - enabled: 1
+    path: Assets/Scenes/LoseScene.unity
+    guid: 8f287e9b32d5e5344be29727748418af
+  m_configObjects: {}
